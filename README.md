@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="lucio1500" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucio1500&color=blueviolet&style=flat-square"/> </p>
 <!--
 **lucio1500/lucio1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
