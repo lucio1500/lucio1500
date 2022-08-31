@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
-
+🔭 I’m currently working on ...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucio1500&color=blueviolet&style=flat"/> </p>
 <!--
 **lucio1500/lucio1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
